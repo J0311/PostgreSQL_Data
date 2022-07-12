@@ -1,3 +1,3 @@
-# SQL_Postgres
+# PostgreSQL
 
 ## Basic SQL commands with PostgreSQL
