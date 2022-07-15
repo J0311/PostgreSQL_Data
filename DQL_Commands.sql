@@ -165,3 +165,5 @@ select s.name, e.evalName, e.mark from students s
 -- right join
 select s.name, e.evalName, e.mark from students s
 	right join evals e on s.id = e.studentid;
+	
+	
