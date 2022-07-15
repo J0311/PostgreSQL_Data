@@ -93,8 +93,6 @@ select name, price, type from produce order by name asc limit 5;
 select name, price, type from produce order by name asc limit 5 offset 5;
 
 
-
-
 /*
  * Subquery -- Nested Queries
  */
